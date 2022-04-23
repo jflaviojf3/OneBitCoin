@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
         color:"#f50d41",
         fontSize:32,
         fontWeight:"bold",
-        paddingTop:40,
+        paddingTop:10,
     },
     textPrice:{
         color:"#FFF",
